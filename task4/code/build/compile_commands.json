@@ -1,0 +1,7 @@
+[
+{
+  "directory": "c:/Users/Felhasználó/Desktop/6.félév/számszim/4.feladat/build",
+  "command": "C:\\PROGRA~2\\MICROS~4\\2017\\COMMUN~1\\VC\\Tools\\MSVC\\1416~1.270\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\hur.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Felhasználó\\Desktop\\6.félév\\számszim\\4.feladat\\main.cpp",
+  "file": "C:/Users/Felhasználó/Desktop/6.félév/számszim/4.feladat/main.cpp"
+}
+]
